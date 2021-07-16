@@ -3,7 +3,7 @@
 
 
 This repository currently contains a function-based classifier designed from scratch to classify a standard 5-card Poker hand into the following ten categories:
-(The following is from this [text file in the uci-datasets folder.)](google.com)
+(The following is from this [text file in the uci-datasets folder.)](https://github.com/asattiraju13/poker-hand-classifier/tree/main/uci-datasets)
 
 
    0. Nothing in hand; not a recognized poker hand 
