@@ -17,4 +17,4 @@ This repository currently contains a function-based classifier designed from scr
    8. Straight flush; straight + flush
    9. Royal flush; {Ace, King, Queen, Jack, Ten} + flush
       
- The datasets and informational text file found in this repository's datasets folder are taken from UCI ML Repository's [Poker Hand Data Set.](https://archive.ics.uci.edu/ml/datasets/Poker+Hand)
+ The datasets and informational text file found in this repository's uci-datasets folder are taken from UCI ML Repository's [Poker Hand Data Set.](https://archive.ics.uci.edu/ml/datasets/Poker+Hand)
