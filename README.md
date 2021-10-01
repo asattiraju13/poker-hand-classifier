@@ -1,4 +1,4 @@
-# Poker Hand Classifier
+# Poker Hand Classifier (in-progress)
 
 
 This repository currently contains a function-based classifier designed from scratch to classify a standard 5-card Poker hand into the following ten categories:
